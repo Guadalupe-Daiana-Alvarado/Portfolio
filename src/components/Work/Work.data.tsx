@@ -11,7 +11,8 @@ export const cardContent = [
       {
         icon: <SiGithub size="40" />,
         gitFront: "https://github.com/Guadalupe-Daiana-Alvarado/Minga-Front-3-Alvarado.git",
-        gitBack: "https://github.com/Guadalupe-Daiana-Alvarado/Minga-BackEnd-3-Alvarado.git"
+        gitBack: "https://github.com/Guadalupe-Daiana-Alvarado/Minga-BackEnd-3-Alvarado.git",
+        host: "#"
       },
     ]
   },
@@ -40,7 +41,9 @@ export const cardContent = [
       {
         icon: <SiGithub size="40" />,
         gitFront: "https://github.com/Guadalupe-Daiana-Alvarado/BudaMer_Front.git",
-        gitBack: "https://github.com/Guadalupe-Daiana-Alvarado/BudaMer_Back.git"
+        gitBack: "https://github.com/Guadalupe-Daiana-Alvarado/BudaMer_Back.git",
+        host: "#"
+
       },
     ]
   },
@@ -54,7 +57,9 @@ export const cardContent = [
       {
         icon: <SiGithub size="40" />,
         gitFront: "https://github.com/Guadalupe-Daiana-Alvarado/Alvacon/tree/dev",
-        gitBack: "https://github.com/Guadalupe-Daiana-Alvarado/Alvacon/tree/dev"
+        gitBack: "https://github.com/Guadalupe-Daiana-Alvarado/Alvacon/tree/dev",
+        host: "#"
+
       },
     ]
   },
