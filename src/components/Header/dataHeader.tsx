@@ -7,22 +7,14 @@ export const socialNetworks = [
   },
   {
     logo: <RiYoutubeLine size="40" />,
-    src: "https://youtube.com/",
+    src: "https://www.youtube.com/channel/UCNvzcd3j3VR6-hJpVFsI-5A",
   },
   {
     logo: <RiTiktokLine size="40" />,
-    src: "https://tiktok.com/",
-  },
-  {
-    logo: <RiPinterestLine size="40" />,
-    src: "https://pinterest.com/",
+    src: "https://www.tiktok.com/@dai.22121994",
   },
   {
     logo: <RiTwitterXFill size="40" />,
-    src: "https://twitter.com/",
-  },
-  {
-    logo: <RiBehanceLine size="40" />,
-    src: "#!",
-  },
+    src: "https://twitter.com/Dai_Alvaradoo",
+  }
 ];
